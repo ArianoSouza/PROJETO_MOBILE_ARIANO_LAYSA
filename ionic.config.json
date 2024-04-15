@@ -1,0 +1,7 @@
+{
+  "name": "serviçosenhas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
